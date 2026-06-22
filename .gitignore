@@ -1,0 +1,14 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Credenciales locales
+db.properties
+src/main/resources/db.properties
+
+# Sistema
+.DS_Store
+Thumbs.db
